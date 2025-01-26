@@ -1,4 +1,4 @@
-# Banker-Chatbox-AWS-PROJECT-
+# Banker-Chatbox-AWS-PROJECT
 
 ## 🌟 Project Summary
 
