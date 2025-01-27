@@ -38,5 +38,5 @@ The chatbot integrates multiple AWS services:
 - **Error Handling**: Managing fallback responses required custom configuration to improve clarity.
 
 
-## 🤝 Creators
+## 🧑‍💻 Creators
 - Shaima Bashar  
