@@ -39,4 +39,5 @@ The chatbot integrates multiple AWS services:
 
 
 ## 🧑‍💻 Creators
-- Shaima Bashar  
+- Shaima Bashar
+- [NextWork](https://learn.nextwork.org/) Resourses
