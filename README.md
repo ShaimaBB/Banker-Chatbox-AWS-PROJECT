@@ -1,6 +1,6 @@
 # Banker-Chatbox-AWS-PROJECT
 
-## 🌟 Project Summary
+##  Project Summary
 
 This project showcases a chatbot built using **Amazon Lex**, designed to handle user intents such as greeting the user, checking account balances, and transferring money. The chatbot leverages **AWS Lambda** for backend processing and integrates features like:
 
@@ -11,13 +11,13 @@ This project showcases a chatbot built using **Amazon Lex**, designed to handle 
 
 My documentation of this entire project is [here](https://github.com/ShaimaBB/Banker-Chatbox-AWS-PROJECT-/blob/0af6d9974e749d5a58cdf08dc977dc0749a1cc30/ChatBox-Aws.pdf)
 
-## 🏗️ Architecture
+##  Architecture
 
 The chatbot integrates multiple AWS services:
 - **Amazon Lex** for natural language processing.
 - **AWS Lambda** for intent fulfillment.
 
-## 🚀 Setup Guide
+##  Setup Guide
 
 ### Steps
 1. **Set Up Amazon Lex Bot**:
@@ -34,10 +34,10 @@ The chatbot integrates multiple AWS services:
    - Test the chatbot in the Lex Console.
    - Deploy it for real-world interactions.
 
-## 📚 Challenges
+##  Challenges
 - **Error Handling**: Managing fallback responses required custom configuration to improve clarity.
 
 
-## 🧑‍💻 Creators
+##  Creators
 - Shaima Bashar
 - [NextWork](https://learn.nextwork.org/) Resourses
